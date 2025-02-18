@@ -1,0 +1,18 @@
+[
+    {
+        "text": "test 1",
+        "completed": true
+    },
+    {
+        "text": "test 3 uppdaterad",
+        "completed": true
+    },
+    {
+        "text": "TEST TEST",
+        "completed": true
+    },
+    {
+        "text": "test",
+        "completed": false
+    }
+]
